@@ -1,4 +1,4 @@
-## Demo Overview
+## Secure CI/CD Demo Overview
 
 This project is a simple Node.js Express API designed to demonstrate a complete CI/CD pipeline using GitHub Actions with a focus on security and automation.
 
